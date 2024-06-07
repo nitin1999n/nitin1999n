@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitin1999n aka -"Nitin Sharma"
+- 👋 Hi, I’m Nitin Sharma
 - 👀 I’m interested in web developer and backend developer, Software Engineer.
 - 🌱 I’m currently learning React-Native.
 - 👌 Completed with PHP, HTML, CSS, JavaScript, Java, React, SQL.👌
