@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitin Sharma
 - 👀 I’m interested in web developer and backend developer, Software Engineer.
-- 🌱 I’m currently learning ReactJs and TypeScript.
+- 🌱 I’m currently learning ReactJs and Node.
 - 👌 Completed with HTML, CSS, JavaScript, Java, React, SQL.👌
 - 📫 How to reach me by sending message on my Gmail- nitin2019it035abesit@gmail.com.
 <!---
